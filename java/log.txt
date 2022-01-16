@@ -1,0 +1,12 @@
+Nov 20, 2021 10:34:47 PM com.techelevator.FileLogger log
+INFO: FEED money: $0.0 $5.0
+Nov 20, 2021 10:37:31 PM com.techelevator.FileLogger log
+INFO: FEED money: $0.0 $5.0
+Nov 20, 2021 10:45:07 PM com.techelevator.FileLogger log
+INFO: FEED money: $0.0 $5.0
+Nov 20, 2021 10:45:42 PM com.techelevator.FileLogger log
+INFO: Purchased thing: $3.75 $3.75
+Nov 23, 2021 2:48:37 PM com.techelevator.FileLogger log
+INFO: FEED money: $0.0 $0.0
+Nov 23, 2021 2:49:08 PM com.techelevator.FileLogger log
+INFO: FEED money: $0.0 $5.0
